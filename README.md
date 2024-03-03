@@ -1,8 +1,6 @@
-[![MasterHead](file:///C:/Users/akhil/Downloads/snapedit_1709461754709.jpeg)]
+[![MasterHead](https://ibb.co/J3nF8qd)]
 <h1 align="center">Hi 👋, I'm Akhil Nagpal</h1>
 <h3 align="center">Aspiring Frontend Developer | Fascinated about crafting UI/UX experiences that captivate users.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil-nagpal" alt="akhil-nagpal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/akhilnagpal7" target="blank"><img src="https://img.shields.io/twitter/follow/akhilnagpal7?logo=twitter&style=for-the-badge" alt="akhilnagpal7" /></a> </p>
 
