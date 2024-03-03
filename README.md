@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/564x/df/2f/e1/df2fe1c94284383ebc90771a84e148be.jpg)]()
 <h1 align="center">Hi 👋, I'm Akhil Nagpal</h1>
 <h3 align="center">Aspiring Frontend Developer | Fascinated about crafting UI/UX experiences that captivate users.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif">
