@@ -1,4 +1,4 @@
-[![MasterHead]([https://ibb.co/J3nF8qd](https://drive.google.com/file/d/19wLj3E5Ansa-oH0cEnHsaqPvEpQNirvt/view))]()
+[![MasterHead](https://i.pinimg.com/564x/1b/06/80/1b0680f19bf4014fe76a2ae3b8865be5.jpg)]()
 <h1 align="center">Hi 👋, I'm Akhil Nagpal</h1>
 <h3 align="center">Aspiring Frontend Developer | Fascinated about crafting UI/UX experiences that captivate users.</h3>
 
