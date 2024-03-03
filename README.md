@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil Nagpal</h1>
 <h3 align="center">Aspiring Frontend Developer | Fascinated about crafting UI/UX experiences that captivate users.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif">
+<img align="right" alt="Coding" width="auto" src="https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif">
 
 <p align="left"> <a href="https://twitter.com/akhilnagpal7" target="blank"><img src="https://img.shields.io/twitter/follow/akhilnagpal7?logo=twitter&style=for-the-badge" alt="akhilnagpal7" /></a> </p>
 
