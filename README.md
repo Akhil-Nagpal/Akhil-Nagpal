@@ -25,10 +25,10 @@
 ![akhil-nagpal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-nagpal&theme=blueberry&show_icons=true&hide_border=true&layout=pie&align=center)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-nagpal" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-nagpal&card_width=460&theme=blueberry&border=false" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-nagpal&theme=blueberry&hide_border=true&langs_count=8&card_width=580" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-nagpal&theme=blueberry&hide_border=true&langs_count=8&card_width=480" />
 </a>
 
 ![akhil-nagpal's Stats](https://github-readme-stats.vercel.app/api?username=akhil-nagpal&theme=blueberry&show_icons=true&hide_border=true&count_private=true) ![akhil-nagpal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhil-nagpal&theme=blueberry&hide_border=true) 
