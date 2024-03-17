@@ -24,6 +24,13 @@
 
 ![akhil-nagpal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-nagpal&theme=blueberry&show_icons=true&hide_border=true&layout=pie&align=center)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-nagpal" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil-nagpal&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ![akhil-nagpal's Stats](https://github-readme-stats.vercel.app/api?username=akhil-nagpal&theme=blueberry&show_icons=true&hide_border=true&count_private=true) ![akhil-nagpal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhil-nagpal&theme=blueberry&hide_border=true) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akhil-nagpal&theme=tokyo-night)](https://github.com/akhil-nagpal/github-readme-activity-graph)
