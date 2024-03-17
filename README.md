@@ -27,5 +27,3 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akhil-nagpal&theme=tokyo-night)](https://github.com/akhil-nagpal/github-readme-activity-graph)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-nagpal&" alt="akhil-nagpal" /></p>
