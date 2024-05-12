@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGWdF6nufXGTQ/profile-displaybackgroundimage-shrink_350_1400/0/1707235532684?e=1715212800&v=beta&t=47J1EPmBxqSjwT3H6EYVFGoG1AggH6GNM-hCn5gh_18)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGWdF6nufXGTQ/profile-displaybackgroundimage-shrink_350_1400/0/1707235532684?e=1721260800&v=beta&t=lKark19Kju-OgTJhF7oyifnsvPUFaCEm_Pd-gG2Ffqg)
 <h1 align="center">Hi 👋, I'm Akhil Nagpal</h1>
 <h3 align="center">Aspiring Frontend Developer | Fascinated about crafting UI/UX experiences that captivate users.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
