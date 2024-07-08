@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/mvkxmXP/Pink-Yellow-Retro-Content-Marketer-Linked-In-Banner.png)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQHdh4KlyilZFA/profile-displaybackgroundimage-shrink_350_1400/0/1715504693159?e=1726099200&v=beta&t=I5lFOyxso1jWY0YS3kXzN9XxpQsJWDhnAh6jie3vaXY)
 <h1 align="center">Hi 👋, I'm Akhil Nagpal</h1>
 <h3 align="center">Aspiring Frontend Developer | Fascinated about crafting UI/UX experiences that captivate users.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
