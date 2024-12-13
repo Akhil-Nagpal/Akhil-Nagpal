@@ -24,7 +24,7 @@
 
 ![akhil-nagpal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-nagpal&theme=blueberry&show_icons=true&hide_border=true&layout=pie&align=center)
 
-![akhil-nagpal's Stats](https://github-readme-stats.vercel.app/api?username=akhil-nagpal&theme=blueberry&show_icons=true&hide_border=true&count_private=true) ![GitHub Streak](https://streak-stats.demolab.com?user=Akhil-Nagpal&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
+![akhil-nagpal's Stats](https://github-readme-stats.vercel.app/api?username=akhil-nagpal&theme=blueberry&show_icons=true&hide_border=true&count_private=true) [![GitHub Streak](https://streak-stats.demolab.com?user=Akhil-Nagpal&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akhil-nagpal&theme=tokyo-night)](https://github.com/akhil-nagpal/github-readme-activity-graph)
