@@ -16,6 +16,7 @@
 <a href="https://codepen.io/akhil_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@akhil_007" height="30" width="40" /></a>
 <a href="https://twitter.com/akhilnagpal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhilnagpal7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akhil-nagpal-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-nagpal-dev" height="30" width="40" /></a>
+  <a href="https://discord.gg/KYXZrHCD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KYXZrHCD" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
