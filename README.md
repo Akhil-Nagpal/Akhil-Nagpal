@@ -1,8 +1,6 @@
 ## ![Banner](./assets/banner.gif)
 
----
-
-<h1 align="center">Hi 👋, I'm Akhil Nagpal</h1>
+<h1 align="center">Hi 👋, I'm ! Ak !</h1>
 <h3 align="center">Designing the face, discovering the brain — building the web one layer at a time</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 
