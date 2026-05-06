@@ -14,10 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/akhil_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@akhil_007" height="30" width="40" /></a>
-<a href="https://twitter.com/akhilnagpal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhilnagpal7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akhil-nagpal-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-nagpal-dev" height="30" width="40" /></a>
-  <a href="https://discord.gg/KYXZrHCD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KYXZrHCD" height="30" width="40" /></a>
+<a href="https://discord.com/users/808244486814826497"><img src="https://www.readmecodegen.com/api/social-icon?name=discord&reverseBackground=true&link=https%3A%2F%2Fdiscord.com%2Fusers%2F808244486814826497" alt="discord" /></a>
+<a href="https://x.com/AkhilNagpal7"><img src="https://www.readmecodegen.com/api/social-icon?name=twitter&reverseBackground=true&link=https%3A%2F%2Fx.com%2FAkhilNagpal7" alt="twitter" /></a>
+<a href="https://www.linkedin.com/in/akhil-nagpal-dev/"><img src="https://www.readmecodegen.com/api/social-icon?name=Linkedin&reverseBackground=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fakhil-nagpal-dev%2F" alt="Linkedin" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
