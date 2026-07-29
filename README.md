@@ -4,8 +4,6 @@
 <h3 align="center">Designing the face, discovering the brain — building the web one layer at a time</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 
-<p align="left"> <a href="https://twitter.com/akhilnagpal7" target="blank"><img src="https://img.shields.io/twitter/follow/akhilnagpal7?logo=twitter&style=for-the-badge" alt="akhilnagpal7" /></a> </p>
-
 - 🌱 Trying To learn **Backend Development**
 
 - 💬 Ask me about **Frontend Development**
