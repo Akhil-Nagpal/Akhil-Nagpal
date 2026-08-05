@@ -9,17 +9,6 @@
 * ⚡ Interested in **AI, Developer Tools & High-Performance Web Apps**
 * 📫 Reach me at **[akhilnagpal07@gmail.com](mailto:akhilnagpal07@gmail.com)**
 
-
-<!-- <h1 align="center">Hi 👋, I'm ! Ak !</h1>
-<h3 align="center">Designing the face, discovering the brain — building the web one layer at a time</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
-
-- 🌱 Trying To learn **Backend Development**
-
-- 💬 Ask me about **Frontend Development**
-
-- 📫 How to reach me **akhilnagpal07@gmail.com** -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/808244486814826497"><img src="https://www.readmecodegen.com/api/social-icon?name=discord&reverseBackground=true&link=https%3A%2F%2Fdiscord.com%2Fusers%2F808244486814826497" alt="discord" /></a>
