@@ -1,7 +1,7 @@
 ## ![Banner](./assets/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Ak!</h1>
-<h3 align="center">Full-Stack Developer building modern web applications while diving deeper into backend engineering, AI, and scalable systems.</h3>
+<h3 align="center">Full-Stack Developer building modern web applications while diving deeper into backend engineering, AI, and scalable systems</h3>
 
 * 🚀 Building **Orbit Studio** and other real-world projects
 * 🌱 Learning **Backend Architecture, Redis, System Design & AWS**
