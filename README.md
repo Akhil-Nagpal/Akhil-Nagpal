@@ -1,3 +1,7 @@
+```console
+akhil@github:~$ ./welcome.sh
+```
+
 ## ![Banner](./assets/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Ak!</h1>
