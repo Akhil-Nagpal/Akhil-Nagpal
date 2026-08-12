@@ -13,6 +13,14 @@ akhil@github:~$ ./welcome.sh
 * ⚡ Interested in **AI, Developer Tools & High-Performance Web Apps**
 * 📫 Reach me at **[akhilnagpal07@gmail.com](mailto:akhilnagpal07@gmail.com)**
 
+### 💡 Random facts about me
+- This script survived 3 rewrites and a Bun DNS bug
+- Currently caching brain cells for Redis learning
+- Built on a 3.6GB RAM laptop — respect the grind
+- Ask me about the time SRV DNS broke my whole afternoon
+- Bisected 9 Bun versions to prove a bug wasn't my fault — it wasn't
+- Installed a tool, uninstalled it, then missed it enough to bring it back
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/808244486814826497"><img src="https://www.readmecodegen.com/api/social-icon?name=discord&reverseBackground=true&link=https%3A%2F%2Fdiscord.com%2Fusers%2F808244486814826497" alt="discord" /></a>
