@@ -30,7 +30,7 @@ akhil@github:~$ ./welcome.sh
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,bun,codepen,discord,express,git,github,md,mongodb,nextjs,nodejs,notion,postman,react,redux,sass,tailwind,vercel,vite,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,bun,codepen,discord,express,git,github,md,mongodb,nextjs,nodejs,notion,postman,react,redux,sass,tailwind,vercel,vite,redis,vscode&theme=dark)](https://skillicons.dev)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Akhil-Nagpal&show_icons=true&theme=dracula)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Akhil-Nagpal&theme=dracula)
