@@ -16,7 +16,7 @@ akhil@github:~$ ./welcome.sh
 ### 💡 Random facts about me
 - This script survived 3 rewrites and a Bun DNS bug
 - Currently caching brain cells for Redis
-- Built on a 3.6GB RAM laptop — respect the grind
+- Built on a 4GB RAM laptop — respect the grind
 - Ask me about the time SRV DNS broke my whole afternoon
 - Bisected 9 Bun versions to prove a bug wasn't my fault — it wasn't
 - Installed a tool, uninstalled it, then missed it enough to bring it back
