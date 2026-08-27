@@ -36,4 +36,4 @@ akhil@github:~$ ./welcome.sh
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Akhil-Nagpal&theme=dracula)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Akhil-Nagpal&layout=compact&theme=dracula)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhil-Nagpal&theme=dracula)](https://github.com/Akhil-Nagpal/github-readme-activity-graph)
