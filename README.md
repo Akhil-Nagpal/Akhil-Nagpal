@@ -34,3 +34,4 @@ akhil@github:~$ ./welcome.sh
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Akhil-Nagpal&show_icons=true&theme=dracula)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Akhil-Nagpal&layout=compact&langs_count=6&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=Akhil-Nagpal&layout=compact&langs_count=6&theme=dracula)
+[![Ak's github activity graph](https://github-act-graph.rodriaum.com/graph?username=Akhil-Nagpal&theme=tokyo-night&area=true)](https://github.com/Akhil-Nagpal/github-readme-activity-graph)
