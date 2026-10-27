@@ -8,7 +8,7 @@ akhil@github:~$ ./welcome.sh
 <h3 align="center">Full-Stack Developer building modern web applications while diving deeper into backend engineering, AI, and scalable systems</h3>
 
 * 🚀 Building **Orbit Studio** and other real-world projects
-* 🌱 Learning **Backend Architecture, Redis, System Design & AWS**
+* 🌱 Learning **Backend Architecture, AI, System Design & AWS**
 * 💬 Ask me about **React, Next.js, TypeScript & Express**
 * ⚡ Interested in **AI, Developer Tools & High-Performance Web Apps**
 * 📫 Reach me at **[akhilnagpal07@gmail.com](mailto:akhilnagpal07@gmail.com)**
